@@ -60,7 +60,7 @@ A OpenFil nasceu em **2014** como um projeto DIY de extrusão de filamento. A v1
 └── README.md
 ```
 
-> ⚠️ **Nota:** Ajuste a estrutura acima conforme o conteúdo real do seu repositório.
+> ⚠️ **Nota:** Estamos preparando os arquivos pra subir vc pode acompanhar as novidades por aqui: https://openfil3d.com.br
 
 ## Para Quem
 
