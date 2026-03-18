@@ -2,7 +2,7 @@
 
 **O plástico de hoje é o filamento de amanhã.**
 
-Extrusora open source para reciclagem de resíduos de impressão 3D — purgas, suportes, peças defeituosas — transformando-os de volta em filamento utilizável. Feche o ciclo dentro do seu próprio laboratório.
+Extrusora e filamento open source para reciclagem de resíduos de impressão 3D — purgas, suportes, peças defeituosas — transformando-os de volta em filamento utilizável. Feche o ciclo dentro do seu próprio laboratório.
 
 🌐 [openfil3d.com.br](https://openfil3d.com.br)
 
